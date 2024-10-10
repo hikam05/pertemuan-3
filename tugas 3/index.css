@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+   
+}
+
+.gambar {
+    max-width: 50%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
